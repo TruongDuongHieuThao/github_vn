@@ -1,6 +1,8 @@
 # Terms 
  
 Repository (Repo): thư mục dự án -vd:github_vn 
+Branch: một dự án có nhiều nhánh. đó là nhánh 
+Conflict : xung đột 
 
 #Command
 - git init: giúp dự án trở thành một thư mục git 
@@ -11,3 +13,8 @@ Repository (Repo): thư mục dự án -vd:github_vn
  - git log  : hiển thị thời điểm commit và người commit 
  - git log --oneline
  - git checkout : trở lại từng commit 
+ -git checkout "brandname": trở lại dự án hiện tại 
+- git branch 
+- git checkout -b{branch name}: tạo ra một branch mới 
+- git merge {branch name}: 
+- git branch -d{branch name}
