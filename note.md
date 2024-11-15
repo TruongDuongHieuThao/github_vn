@@ -3,7 +3,8 @@
 Repository (Repo): thư mục dự án -vd:github_vn 
 Branch: một dự án có nhiều nhánh. đó là nhánh 
 Conflict : xung đột 
-
+Local: máy mình
+Remote: không nằm trên máy mình 
 #Command
 - git init: giúp dự án trở thành một thư mục git 
 - git status : thấy được các file trên dự án đang có
@@ -18,3 +19,4 @@ Conflict : xung đột
 - git checkout -b{branch name}: tạo ra một branch mới 
 - git merge {branch name}: 
 - git branch -d{branch name}
+-git push 
